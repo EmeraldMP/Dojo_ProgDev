@@ -90,7 +90,7 @@ const styles = (theme: CustomTheme): Record<ClassNames, CSSProperties> => ({
     }
   },
   button: {
-    color: "grey"
+    color: "pink"
   },
   image: {
     height: 100
